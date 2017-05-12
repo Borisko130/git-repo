@@ -1,0 +1,2 @@
+printf("BYE")
+printf("MUDAK")
