@@ -1,3 +1,5 @@
 printf("Hello world;")
 printf("MUDAK;")
 printf("YO;")
+printf("BRATKA;")
+printf("OLOLO;")
