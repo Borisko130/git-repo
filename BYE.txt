@@ -1,2 +1,0 @@
-printf("BYE")
-printf("MUDAK")
